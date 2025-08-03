@@ -44,7 +44,7 @@ weather-prediction-app/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-prediction-app.git
+git clone https://github.com/SANJEEV-00/weather-prediction-app.git
 cd weather-prediction-app
 ````
 
@@ -117,7 +117,6 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 ---
 
 > 💬 *Feel free to fork, use, and improve this project. Pull requests are welcome!*
-
 
 
 Let me know if you want help generating the `LICENSE` file (MIT) or deploying this app on GitHub Pages with a live link.
